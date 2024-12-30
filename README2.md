@@ -1,0 +1,4 @@
+-- understand the schema
+-- understand the backend
+-- then see the overall frontend
+-- maybe make a leetcode like feature on top of it
